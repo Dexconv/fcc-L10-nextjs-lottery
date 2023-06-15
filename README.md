@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+view on fleek here:
+    https://odd-field-9367.on.fleek.co/
+
+ipfs:
+    ipfs://mPiHLVtpBr25TXDjd8vs7LRxNSQ33WFv9yP2zGeqaSthT
+
+works on goerli (public) and local hardhat:
+    https://github.com/Dexconv/fcc-L9-hardhat-lottery
+
 ## Getting Started
 
 First, run the development server:
